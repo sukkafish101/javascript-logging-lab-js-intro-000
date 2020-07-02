@@ -1,1 +1,1 @@
-("halp!")
+console.error("halp!")
